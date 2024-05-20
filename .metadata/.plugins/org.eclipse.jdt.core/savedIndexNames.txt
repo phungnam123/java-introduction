@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\okleg\Documents\workspace-spring\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3328999622.index
+1600508284.index
+677569002.index
+1476924773.index
